@@ -1,3 +1,14 @@
+
+# my-memes
+
+1. SSG / firebase hosting
+
+[https://nextjs.org/docs/api-reference/next.config.js/setting-a-custom-build-directory](https://nextjs.org/docs/api-reference/next.config.js/setting-a-custom-build-directory)
+
+[https://stackoverflow.com/questions/66423932/next-js-firebase-hosting-404-error-on-all-except-index-html](https://stackoverflow.com/questions/66423932/next-js-firebase-hosting-404-error-on-all-except-index-html)
+
+# Next.js doc
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
