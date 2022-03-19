@@ -7,6 +7,8 @@
 
 [https://stackoverflow.com/questions/66423932/next-js-firebase-hosting-404-error-on-all-except-index-html](https://stackoverflow.com/questions/66423932/next-js-firebase-hosting-404-error-on-all-except-index-html)
 
+[https://nextjs.org/docs/advanced-features/static-html-export](https://nextjs.org/docs/advanced-features/static-html-export)
+
 # Next.js doc
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
