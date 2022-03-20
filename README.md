@@ -1,13 +1,21 @@
 
 # my-memes
 
-1. SSG / firebase hosting
+![SSG archi](./README/my-memes-build-deploy.drawio.png)
 
-[https://nextjs.org/docs/api-reference/next.config.js/setting-a-custom-build-directory](https://nextjs.org/docs/api-reference/next.config.js/setting-a-custom-build-directory)
-
-[https://stackoverflow.com/questions/66423932/next-js-firebase-hosting-404-error-on-all-except-index-html](https://stackoverflow.com/questions/66423932/next-js-firebase-hosting-404-error-on-all-except-index-html)
+## SSG
 
 [https://nextjs.org/docs/advanced-features/static-html-export](https://nextjs.org/docs/advanced-features/static-html-export)
+
+[https://nextjs.org/blog/next-9-5#stable-incremental-static-regeneration](https://nextjs.org/blog/next-9-5#stable-incremental-static-regeneration)
+
+## SSG / firebase hosting
+
+[https://firebase.google.com/docs/hosting](https://firebase.google.com/docs/hosting)
+
+[https://firebase.google.com/docs/web/setup](https://firebase.google.com/docs/web/setup)
+
+[https://firebase.google.com/docs/hosting/custom-domain](https://firebase.google.com/docs/hosting/custom-domain)
 
 # Next.js doc
 
