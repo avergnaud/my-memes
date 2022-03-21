@@ -3,7 +3,7 @@
 
 ![SSG archi](./README/my-memes-build-deploy.drawio.png)
 
-## SSG
+# SSG
 
 [https://nextjs.org/docs/advanced-features/static-html-export](https://nextjs.org/docs/advanced-features/static-html-export)
 
@@ -16,6 +16,12 @@
 [https://firebase.google.com/docs/web/setup](https://firebase.google.com/docs/web/setup)
 
 [https://firebase.google.com/docs/hosting/custom-domain](https://firebase.google.com/docs/hosting/custom-domain)
+
+# SEO
+
+[https://nextjs.org/learn/seo/crawling-and-indexing](https://nextjs.org/learn/seo/crawling-and-indexing)
+
+
 
 # Next.js doc
 
