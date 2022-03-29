@@ -21,7 +21,7 @@ const app = initializeApp(firebaseConfig);
 export default function Home() {
   
   const analytics = getAnalytics(app);
-  if(analytics.isSupported()) {
+  if(window) {
     logEvent(analytics, 'notification_received');
   }
 
