@@ -17,11 +17,13 @@ const firebaseConfig = {
 };
 
 const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
 
 export default function Home() {
-
-  logEvent(analytics, 'notification_received');
+  
+  const analytics = getAnalytics(app);
+  if(analytics.isSupported()) {
+    logEvent(analytics, 'notification_received');
+  }
 
   return (
     <div>Hello CI!</div>
