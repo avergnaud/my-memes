@@ -9,7 +9,7 @@ export default function UntilNextTime() {
     <Layout>
       <div className="row my-2">
         <div className="col-12">
-          <h1>"He man skeletor advice" meme</h1>
+          <h1>&quot;He man skeletor advice&quot; meme</h1>
           <h2>template</h2>
           <p>
             mixed up with "until next time" meme?

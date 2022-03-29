@@ -9,7 +9,7 @@ export default function ScoobyDooUnmasking() {
     <Layout>
       <div className="row my-2">
         <div className="col-12">
-          <h1>"Scooby-Doo unmasking" meme</h1>
+          <h1>&quot;Scooby-Doo unmasking&quot; meme</h1>
           <h2>template</h2>
           <a target="_blank" href="https://imgflip.com/memegenerator/158375076/Scooby-Doo-Unmasking">On imgflip</a>
           <h2>Exemple</h2>
