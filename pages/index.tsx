@@ -1,8 +1,11 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import { getAnalytics, logEvent } from "firebase/analytics";
+
 
 export default function Home() {
+
+  const analytics = getAnalytics();
+  logEvent(analytics, 'notification_received');
+
   return (
     <div>Hello CI!</div>
   )
