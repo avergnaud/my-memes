@@ -12,9 +12,9 @@ export default function UntilNextTime() {
           <h1>&quot;He man skeletor advice&quot; meme</h1>
           <h2>template</h2>
           <p>
-            mixed up with "until next time" meme?
+            Because of Reddit, this meme is mixed up with &quot;until next time&quot; meme!
           </p>
-          <a target="_blank" href="https://imgflip.com/meme/338290607/he-man-skeleton-advices">On imgflip</a>
+          <a target="_blank" rel="noreferrer" href="https://imgflip.com/meme/338290607/he-man-skeleton-advices">On imgflip</a>
           <h2>Exemple</h2>
           <img src="/img/he-man-skeleton-advice.jpg" />
         </div>
