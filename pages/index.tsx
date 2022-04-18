@@ -3,7 +3,9 @@ import Layout from "../components/Layout";
 
 export default function Home() {
   
-  logGAEvent("index page");
+  logGAEvent('page_view', {
+    page_location: 'index'
+  });
 
   return (
     <Layout>

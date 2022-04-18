@@ -13,6 +13,9 @@ export default function Nav() {
         <Link href="/he-man-skeleton-advice">
           <a className="p-2 text-muted">He man skeleton advice</a>
         </Link>
+        <Link href="/captain-america-elevator-fight">
+          <a className="p-2 text-muted">Captain america elevator fight</a>
+        </Link>
       </nav>
     </div>
   );

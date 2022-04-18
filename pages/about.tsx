@@ -3,7 +3,9 @@ import Layout from "../components/Layout";
 
 export default function About() {
   
-  logGAEvent("about page");
+  logGAEvent('page_view', {
+    page_location: 'about'
+  });
 
   return (
     <Layout>

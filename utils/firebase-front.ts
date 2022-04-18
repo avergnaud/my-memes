@@ -18,9 +18,9 @@ const firebaseConfig = {
 
 const app = initializeApp(firebaseConfig);
 
-export const logGAEvent = (message) => {
+export const logGAEvent = (eventName, eventParams?) => {
   if(typeof window !== "undefined") {
     const analytics = getAnalytics(app);
-    logEvent(analytics, message);
+    logEvent(analytics, eventName, eventParams);
   }
 }
